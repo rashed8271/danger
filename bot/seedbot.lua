@@ -4,7 +4,7 @@ package.cpath = package.cpath .. ';.luarocks/lib/lua/5.2/?.so'
 
 require("./bot/utils")
 
-VERSION = '2'
+VERSION = '5'
 
 -- This function is called when tg receive a msg
 function on_msg_receive (msg)
@@ -229,6 +229,18 @@ function create_config( )
     "anti_link",
     "auto_leave",
     "danestaniha",
+    "calc",
+    "echo",
+    "expand",
+    "feedback",
+    "joke",
+    "jomlak",
+    "leave",
+    "rank",
+    "texttovoice",
+    "translate",
+    "version",
+
     },
     sudo_users = {164985762},--Sudo users
     disabled_channels = {},
@@ -240,14 +252,10 @@ An advance Administration bot based on avast!
 
 Our team!
 Arash avast
-Pouya avast
-Silent avast
-Raha avast
-Koohsar avast
-
-Special thanks to:
-iliya vortex
-amirhossien psg
+Arian avast
+Hossein avast
+abolfazl avast
+Etc...
 
 
 Our channels:
