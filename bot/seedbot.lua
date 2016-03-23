@@ -243,7 +243,12 @@ function create_config( )
     "lock_fosh",
     "map",
     "stickertophoto",
-    "webshot"
+    "webshot",
+    "google",
+    "info",
+    "location",
+    "time",
+    "plugins"
     },
     sudo_users = {164985762},--Sudo users
     disabled_channels = {},
