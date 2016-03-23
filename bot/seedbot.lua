@@ -248,7 +248,10 @@ function create_config( )
     "info",
     "location",
     "time",
-    "plugins"
+    "plugins",
+    "tex",
+    "me",
+    "qrcode"
     },
     sudo_users = {164985762},--Sudo users
     disabled_channels = {},
