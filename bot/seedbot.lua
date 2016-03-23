@@ -351,97 +351,103 @@ This command will send text to [group_id]
 Commands list :
 
 !kick [username|id]
-You can also do it by reply
+اخراج فرد از گروه
 
 !ban [ username|id]
-You can also do it by reply
+بن کردن فرد از گروه
 
 !unban [id]
-You can also do it by reply
+آزاد کردن بن یک فرد از گروه
 
 !who
-Members list
+لیست اعضا
 
 !modlist
-Moderators list
+لیست مدیران
 
 !promote [username]
-Promote someone
+ارتقا مقام یک عضو ساده به مدیر معمولی
 
 !demote [username]
-Demote someone
+گرفتن مقام مدیر
 
 !kickme
-Will kick user
+با این دستور ربات شمارا از گروه حذف میکند
 
 !about
-Group description
+درباره گروه
 
 !setphoto
-Set and locks group photo
+تنظیم عکس گروه
 
 !setname [name]
-Set group name
+تنظیم نام گروه
 
 !rules
-Group rules
+قوانین
 
 !id
-Return group id or user id
+دریافت آیدی
 
 !help
-Get commands list
+راهنما
 
 !lock [member|name|bots|leave] 
-Locks [member|name|bots|leaveing] 
+قفل کردن ادد و اسم و بات و خروج
 
 !unlock [member|name|bots|leave]
-Unlocks [member|name|bots|leaving]
+باز کردن قفل ادد و اسم و بات و خروج
 
 !set rules [text]
-Set [text] as rules
+تنظیم قوانین گروه
 
 !set about [text]
-Set [text] as about
+تنظیم درباره گروه
 
 !settings
-Returns group settings
+تنظیمات
 
 !newlink
-Create/revoke your group link
+تغییر لینک
 
 !link
-Returns group link
+دریافت لینک گروه
 
 !owner
-Returns group owner id
+گرفتن آیدی صاحب گروه
 
 !setowner [id]
-Will set id as owner
+صاحب کردن فرد دلخواه
 
 !setflood [value]
-Set [value] as flood sensitivity
+تنظیم حساسیت به اسپم
 
 !stats
-Simple message statistics
+وضعیت بات
 
 !save [value] [text]
-Save [text] as [value]
+سیو کردن متن در بات
 
 !get [value]
-Returns text of [value]
+گرفتن متن دلخواه از بات
 
 !clean [modlist|rules|about]
-Will clear [modlist|rules|about] and set it to nil
+مدیران از لیست مدیران پاک می شوند و بقیه هم همین طور clean modlist با دستور 
 
 !res [username]
-Returns user id
+دریافت آیدی عددی فرد دلخواه
 
 !log
-Will return group logs
+لاگ های که در گروه اتفاق افتاده است
 
 !banlist
-Will return group ban list
+با ارسال این دستور لیست کسانی که از گروه بن شدند را بدست می آورید
+
+!aboutme
+باارسال این دستور اطلاعاتی درباره خود دریافت میکنید
+
+!danestaniha
+شما میتوانید با این دستور جملات دانستنی بخوانید
 
 » U can use both "/" and "!" 
 
@@ -450,6 +456,8 @@ Will return group ban list
 » Only moderators and owner can use kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings commands
 
 » Only owner can use res,setowner,promote,demote and log commands
+
+Channel: https://telegram.me/avast_team/
 
 ]]
   }
