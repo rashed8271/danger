@@ -241,7 +241,20 @@ function create_config( )
     "translate",
     "version",
     "quran",
-    "date"
+    "date",
+    "anti_bot",
+    "gps",
+    "linkpv",
+    "lock_chat",
+    "lock_emojy",
+    "lock_english",
+    "lock_username",
+    "lock_fosh",
+    "map",
+    "rank",
+    "setrank",
+    "stickertophoto",
+    "webshot"
     },
     sudo_users = {164985762},--Sudo users
     disabled_channels = {},
