@@ -449,6 +449,81 @@ Commands list :
 !danestaniha
 شما میتوانید با این دستور جملات دانستنی بخوانید
 
+!lock link
+قفل کردن ارسال لینک
+
+!calc
+ماشین حساب
+
+!date
+دریافت تاریخ
+
+!echo
+تکرار حرف مورد نظر
+
+!feedback
+ارسال نظر
+
+!gps
+دریافت موقعیت مکانی
+
+!invite
+دعوت یک فرد به گروه
+
+!expand [url]
+دریافت لینک اصلی یک لینک کوتاه شده
+
+!joke
+دریافت جک
+
+!jomlak
+دریافت جملک های زیبا
+
+!linkpv
+ارسال لینک در خصوصی
+
+!lock emojy
+قفل اموجی
+
+!lock chat
+قفل چت کردن
+
+!lock english
+قفل چت کردن به زبان انگلیسی
+
+!lock fosh
+قفل فحاشی
+
+!lock username
+قفل ارسال یوزر نیم
+
+!rank
+دریافت مقام در گروه و بات
+
+!setrank
+تنظیم مقام فرد
+
+!map
+نقشه
+
+!quran
+دریافت سوره های قرآن
+
+!tophoto
+تبدیل استیکر به عکس و عکس به استیکر
+
+![text]to voice
+تبدیل متن به صدا
+
+!translate [text]
+ترجمه کلمه و متن
+
+!webshot [url]
+گرفتن اسکرین شات از سایت مورد نظر
+
+!version
+دریافت نسخه ربات
+
 » U can use both "/" and "!" 
 
 » Only mods, owner and admin can add bots in group
