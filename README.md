@@ -476,22 +476,19 @@ Check out this [tutorial by Telegram Geeks](http://telegramgeeks.com/2016/01/tel
 **Do not contact us** in private for support.
 Join our bot development group by sending `/join 56670147` to [@TeleSeed](https://telegram.me/TeleSeed)
 
-# Special thanks to
-iliya vortex
 
-amirhossien psg
 
 # Our team!
 
 Arash avast
 
-Pouya avast
-
-Silent avast
+Arian avast
 
 Raha avast
 
-Koohsar avast
+Hossein avast
+
+Mosy15
 
 ###Our Telegram channels:
 
