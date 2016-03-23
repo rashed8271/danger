@@ -240,7 +240,8 @@ function create_config( )
     "texttovoice",
     "translate",
     "version",
-
+    "quran",
+    "date"
     },
     sudo_users = {164985762},--Sudo users
     disabled_channels = {},
