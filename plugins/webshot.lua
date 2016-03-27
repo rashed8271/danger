@@ -48,11 +48,11 @@ end
 return {
    description = "Website Screen Shot",
    usage = {
-      "/web (url) : screen shot of website"
+      "web (url) : screen shot of website"
    },
    patterns = {
-      "^[!/]web (https?://[%w-_%.%?%.:/%+=&]+)$",
+      "^web (https?://[%w-_%.%?%.:/%+=&]+)$",
    },
    run = run
 }
---Shared by @avast_team
+
