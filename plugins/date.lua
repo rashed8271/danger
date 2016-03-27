@@ -10,9 +10,9 @@ return {
 
  description = "Shamsi-Miladi Date, Umbrella Team",
 
- usage = "!date : hijri and miladi date",
+ usage = "date : hijri and miladi date",
 
- patterns = "^[!/]date$", 
+ patterns = "^date$", 
 
  run = run 
 
