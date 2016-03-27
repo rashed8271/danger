@@ -40,9 +40,9 @@ usage = {
 "!quran : sura list of quran",
 },
 patterns = {
-"^[!/](sura) (.+)$",
-"^[!/](read) (.+)$",
-"^[!/](quran)$",
+"^(sura) (.+)$",
+"^(read) (.+)$",
+"^(quran)$",
 }, 
 run = run,
 }
