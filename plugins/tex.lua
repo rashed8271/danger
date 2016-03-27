@@ -20,14 +20,14 @@ end
 return {
   description = "Convert LaTeX equation to image",
   usage = {
-    "!tex [equation]: Convert LaTeX equation to image"
+    "tex [equation]: Convert LaTeX equation to image"
   },
   patterns = {
-    "^!tex (.+)$",
-    "^!tex2img (.+)$",
-    "^!text2img (.+)$",
-    "^!textopic (.+)$",
-    "^!tex2pic (.+)$"
+    "^tex (.+)$",
+    "^tex2img (.+)$",
+    "^text2img (.+)$",
+    "^textopic (.+)$",
+    "^tex2pic (.+)$"
   },
   run = run
 }
