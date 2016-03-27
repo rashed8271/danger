@@ -53,8 +53,8 @@ end
 
 return {
   description = "Get Man Location by Name", 
-  usage = "/map (name) : get map and location",
-  patterns = {"^[!/]map (.*)$"}, 
+  usage = "map (name) : get map and location",
+  patterns = {"^map (.*)$"}, 
   run = run 
 }
 
