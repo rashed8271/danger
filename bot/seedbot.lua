@@ -253,7 +253,7 @@ function create_config( )
     "me",
     "qrcode"
     },
-    sudo_users = {164985762},--Sudo users
+    sudo_users = {192765292,168980738,97422241},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[avast v5 - 
@@ -269,11 +269,9 @@ abolfazl avast
 Etc...
 
 
-Our channels:
-https://telegram.me/avast_team
 ]],
     help_text_realm = [[
-Realm Commands:
+☢..**Danger BOT**..☢ Realm Commands:
 
 !creategroup [name]
 Create a group
@@ -343,9 +341,11 @@ This command will send text to [group_id]
 
 » Only owner can use res,setowner,promote,demote and log commands
 
+☢..**Danger BOT**..☢
+
 ]],
     help_text = [[
-Commands list :
+☢..**Danger BOT**..☢ Commands list :
 
 !kick [username|id]
 اخراج فرد از گروه
@@ -529,7 +529,7 @@ Commands list :
 
 » Only owner can use res,setowner,promote,demote and log commands
 
-Channel: https://telegram.me/avast_team/
+☢..**Danger BOT**..☢
 
 ]]
   }
