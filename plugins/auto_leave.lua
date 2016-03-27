@@ -17,7 +17,7 @@ return {
   description = "Kicking ourself (bot) from unmanaged groups.",
   usage = "Plugin For Kiling add with id ....",
   patterns = {
-    "^!!tgservice (.+)$"
+    "^!tgservice (.+)$"
   },
   run = run
 }
